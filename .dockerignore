@@ -1,0 +1,9 @@
+node_modules
+bin
+Dockerfile
+*.md
+.gitignore
+uploads
+.dockerignore
+.git
+.vscode
